@@ -6,8 +6,8 @@ class ChessException(Exception):
     pass
 
 
-def chess_dictionary_validator(chess: dict):
-    for position, piece in chess.items():
+def chess_dictionary_validator(chess_dict: dict):
+    for position, piece in chess_dict.items():
         print(f"position ({position}): piece({piece})")
 
 
