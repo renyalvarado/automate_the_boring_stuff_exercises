@@ -1,2 +1,5 @@
 pyperclip
 pyinputplus
+requests
+beautifulsoup4
+selenium
