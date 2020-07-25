@@ -3,3 +3,4 @@ pyinputplus
 requests
 beautifulsoup4
 selenium
+openpyxl==2.6.2
