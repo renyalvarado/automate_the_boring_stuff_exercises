@@ -11,3 +11,4 @@ tabulate
 PyPDF2
 python-docx==0.8.10
 pillow
+pyautogui
